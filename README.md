@@ -24,8 +24,9 @@
 
 ## 🔎 Selected Work
 
-- **[geo-seo-claude](https://github.com/kushaim/geo-seo-claude)** — GEO-first SEO toolkit that optimizes sites for AI search (ChatGPT, Claude, Perplexity, Gemini): citability scoring, schema, llms.txt, AI-crawler analysis, Claude skills.
-- **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end.
+- **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end (Next.js, AI-assisted tabletop gameplay tooling).
+- **GEO / AI-search optimization** — I deploy and tune AI-search visibility (schema, llms.txt, citability, AI-crawler access) across production client sites.
+- **Agentic systems & MCP** — self-hosted multi-agent gateway with multi-model routing, and the MCP servers/tools that connect agents to real systems.
 
 ## 🌐 Connect
 
