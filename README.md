@@ -28,10 +28,10 @@
 
 ## 🔎 Selected Work
 
-- **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end (Next.js, AI-assisted tabletop gameplay tooling). ‹optional: add repo/case-study link›
 - **[practice-fusion-mcp](https://github.com/kushaim/practice-fusion-mcp)** — open-source, FHIR-first, read-only MCP server for the Practice Fusion EHR (TypeScript, SMART backend-services auth, audit-logged, fully tested). One piece of the self-hosted multi-agent gateway + multi-model routing I run behind client work.
-- **GEO / AI-search optimization** — I deploy and tune AI-search visibility (schema, llms.txt, citability, AI-crawler access) across production client sites. → **‹fill: link to a live client site, a GEO toolkit repo, or a case-study page›**
-- **Native mobile** — ‹fill: App Store link› — Flutter + native iOS, shipped and live.
+- **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end (Next.js, AI-assisted tabletop gameplay tooling).
+- **GEO / AI-search optimization** — I deploy and tune AI-search visibility (schema, llms.txt, citability, AI-crawler access) across production client sites.
+- **Native mobile** — Flutter + native iOS, shipped and live on the App Store.
 
 ## 🌐 Connect
 
