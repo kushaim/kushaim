@@ -8,6 +8,8 @@
 
 `AI Agents` · `MCP / Tool-Calling` · `Multi-Model LLM Routing` · `Full-Stack (Next.js)` · `GEO / AI-Search`
 
+<sub>🛰️ Live SaaS shipped · 📱 Native iOS app on the App Store · 🤖 Self-hosted multi-agent fleet in production · 🏥 15+ yrs enterprise IT (HIPAA)</sub>
+
 </div>
 
 ---
@@ -22,11 +24,14 @@
 - 🇺🇸 US Citizen · based in Arizona · open to **Forward-Deployed / Applied-AI / Solutions Engineering** roles (remote).
 - 📫 **cjimenez@r21digital.com**
 
+**By the numbers** — ‹fill: N› MCP servers/tools shipped · ‹fill: N› client sites in production · ‹fill: N› autonomous agents running daily · 1 live SaaS · 1 iOS app on the App Store
+
 ## 🔎 Selected Work
 
-- **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end (Next.js, AI-assisted tabletop gameplay tooling).
-- **GEO / AI-search optimization** — I deploy and tune AI-search visibility (schema, llms.txt, citability, AI-crawler access) across production client sites.
-- **Agentic systems & MCP** — self-hosted multi-agent gateway with multi-model routing, and the MCP servers/tools that connect agents to real systems.
+- **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end (Next.js, AI-assisted tabletop gameplay tooling). ‹optional: add repo/case-study link›
+- **Agentic systems & MCP** — self-hosted multi-agent gateway with multi-model routing, and the MCP servers that connect agents to real systems. → **‹fill: link to a public MCP-server repo — this is the highest-value link on the page›**
+- **GEO / AI-search optimization** — I deploy and tune AI-search visibility (schema, llms.txt, citability, AI-crawler access) across production client sites. → **‹fill: link to a live client site, a GEO toolkit repo, or a case-study page›**
+- **Native mobile** — ‹fill: App Store link› — Flutter + native iOS, shipped and live.
 
 ## 🌐 Connect
 
@@ -75,3 +80,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
+---
+
+<div align="center"><sub>⚔️ Bankai.</sub></div>
