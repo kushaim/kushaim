@@ -8,6 +8,8 @@
 
 `AI Agents` · `MCP / Tool-Calling` · `Multi-Model LLM Routing` · `Full-Stack (Next.js)` · `GEO / AI-Search`
 
+<sub>🛰️ Live SaaS shipped · 📱 Native iOS app on the App Store · 🤖 Self-hosted multi-agent fleet in production · 🏥 15+ yrs enterprise IT (HIPAA)</sub>
+
 </div>
 
 ---
@@ -22,11 +24,14 @@
 - 🇺🇸 US Citizen · based in Arizona · open to **Forward-Deployed / Applied-AI / Solutions Engineering** roles (remote).
 - 📫 **cjimenez@r21digital.com**
 
+**By the numbers** — 1 open-source MCP server published · self-hosted agent fleet in production · 1 live SaaS · 1 iOS app on the App Store · client sites live across the US, PR & Latin America
+
 ## 🔎 Selected Work
 
+- **[practice-fusion-mcp](https://github.com/kushaim/practice-fusion-mcp)** — open-source, FHIR-first, read-only MCP server for the Practice Fusion EHR (TypeScript, SMART backend-services auth, audit-logged, fully tested). One piece of the self-hosted multi-agent gateway + multi-model routing I run behind client work.
 - **[fantasytabletophelper.com](https://fantasytabletophelper.com)** — a live product I built and shipped end-to-end (Next.js, AI-assisted tabletop gameplay tooling).
 - **GEO / AI-search optimization** — I deploy and tune AI-search visibility (schema, llms.txt, citability, AI-crawler access) across production client sites.
-- **Agentic systems & MCP** — self-hosted multi-agent gateway with multi-model routing, and the MCP servers/tools that connect agents to real systems.
+- **Native mobile** — Flutter + native iOS, shipped and live on the App Store.
 
 ## 🌐 Connect
 
@@ -75,3 +80,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
+---
+
+<div align="center"><sub>⚔️ Bankai.</sub></div>
