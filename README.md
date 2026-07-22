@@ -82,5 +82,3 @@
 </div>
 
 ---
-
-<div align="center"><sub>⚔️ Bankai.</sub></div>
