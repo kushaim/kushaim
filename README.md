@@ -24,7 +24,7 @@
 - 🇺🇸 US Citizen · based in Arizona · open to **Forward-Deployed / Applied-AI / Solutions Engineering** roles (remote).
 - 📫 **cjimenez@r21digital.com**
 
-**By the numbers** — 1 open-source MCP server published · self-hosted agent fleet in production · 1 live SaaS · 1 iOS app on the App Store · client sites live across the US, PR & Latin America
+**By the numbers** — 30+ client websites designed & shipped · 1 open-source MCP server published · self-hosted agent fleet in production · 1 live SaaS · 1 iOS app on the App Store · sites live across the US, PR & Latin America
 
 ## 🔎 Selected Work
 
